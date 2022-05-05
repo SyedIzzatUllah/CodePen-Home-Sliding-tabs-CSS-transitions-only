@@ -1,1 +1,1 @@
-# CodePen-Home-Sliding-tabs-CSS-transitions-only
+#  Home-Sliding-tabs-CSS-transitions-only
