@@ -102,7 +102,7 @@ input[id="radio-3"] {
 	}
 }
 
-.glider {
+.glider {    
 	position: absolute;
 	display: flex;
 	height: 54px;
